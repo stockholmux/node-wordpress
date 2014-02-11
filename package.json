@@ -6,7 +6,7 @@
   "homepage": "https://github.com/scottgonzalez/node-wordpress",
   "repository": {
     "type": "git",
-    "url": "git://github.com/scottgonzalez/node-wordpress.git"
+    "url": "git://github.com/stockholmux/node-wordpress.git"
   },
   "engines": {
     "node": "*"
