@@ -12,7 +12,7 @@
     "node": "*"
   },
   "dependencies": {
-    "xmlrpc": "git://github.com/baalexander/node-xmlrpc"
+    "xmlrpc": "git://github.com/baalexander/node-xmlrpc#99eb5e4f7e931212705ca2485841c0c8887838aa"
   },
   "devDependencies": {
     "grunt": "0.3.x"
